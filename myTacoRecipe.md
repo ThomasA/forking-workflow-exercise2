@@ -1,3 +1,3 @@
 Get taco
-Fill it up with meat and spices
+Fill it up with meat and chili
 Eat it
